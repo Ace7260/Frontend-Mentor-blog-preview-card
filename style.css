@@ -114,6 +114,7 @@ main {
 .title {
     font-size: 24px;
     font-family: Figtree-ExtraBold;
+    cursor: pointer;
 }
 
 .text {
@@ -129,6 +130,10 @@ main {
     font-weight: bold;
     font-size: 14px;
     font-family: Figtree-ExtraBold;
+}
+
+.title:active {
+    color: var(--yellow);
 }
 
 @media screen and (max-width: 375px) {
