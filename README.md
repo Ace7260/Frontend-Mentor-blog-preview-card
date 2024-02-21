@@ -16,7 +16,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [On github](https://github.com/ace7260/blog-preview-card)
-- Live Site URL: [Live](https://ace7260.github.io/)
+- Live Site URL: [Live](https://blog-preview-card-eight-phi.vercel.app/)
 
 ### Built with
 
